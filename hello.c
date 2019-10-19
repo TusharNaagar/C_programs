@@ -1,5 +1,5 @@
 #include<stdio.h>
 main()
 {
-	printf("hELLO WORLD/n");
+	printf("HELLO WORLD/nHELLO WORLD/nHELLO WORLD/n");
 }
